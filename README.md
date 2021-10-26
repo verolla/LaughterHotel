@@ -1,0 +1,2 @@
+# LaughterHotel
+Hotel website
